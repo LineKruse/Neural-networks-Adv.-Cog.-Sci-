@@ -19,8 +19,4 @@ net = network.Network([784, 30, 10])
 net.SGD(training_data, 30, 10, 3.0, test_data=test_data)
 #30 epochs 
 #mini-batches of size 10 
-#learning rate of 3.0
-
-#klsædjfælksjd 
-
-
+#learning rate of 3.0 
